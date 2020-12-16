@@ -1,6 +1,6 @@
-# Hello Friend NG
+# Hello Darkness My Old Friend NG
 
-![Hello Friend NG](https://dsh.re/2bd45)
+![Hello Friend NG](https://avatars3.githubusercontent.com/u/8347597?s=460&u=3204acdb55e08c4e7ee6f191e35858adc7b61af4&v=4)
 
 ## General informations
 
