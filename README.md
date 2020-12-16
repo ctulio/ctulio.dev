@@ -2,6 +2,5 @@
 
 Me encontre em outras redes
 
-twitter.com/ctulio
-
-linkedin.com/in/cesartulio
+[Twitter](twitter.com/ctulio)
+[LinkedIn](linkedin.com/in/cesartulio)
